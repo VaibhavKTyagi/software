@@ -1,0 +1,55 @@
+center {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+.middleCard {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 0%;
+}
+.textAreaStyle {
+  position: relative;
+  border: 2px solid rgba(230, 230, 230, 0.75);
+  border-radius: 40px;
+  width: 600%;
+}
+.textborder {
+  border: 2px solid rgba(230, 230, 230, 0.75);
+  border-radius: 40px;
+}
+.btn-primary {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: rgba(58, 133, 191, 0.75);
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(58, 133, 191, 0.75);
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}
+.btn-secondary {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: rgba(24, 24, 24, 0.623);
+  letter-spacing: 1px;
+  line-height: 15px;
+
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}
+.btn-success {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: rgba(38, 129, 38, 0.75);
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(38, 129, 38, 0.75);
+  border-radius: 40px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}

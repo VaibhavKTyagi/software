@@ -1,0 +1,49 @@
+.customtitle {
+  background-color: rgba(200, 200, 200, 0.75);
+  padding: 1%;
+}
+.sendBtn {
+  font-family: Raleway-SemiBold;
+  font-size: 50px;
+  color: rgba(38, 129, 38, 0.75);
+  border: 2px solid rgba(38, 129, 38, 0.75);
+  border-radius: 50px;
+  width: 50px;
+  height: 50px;
+  background: transparent;
+  transition: all 0.3s ease 0s;
+}
+.customcard {
+  letter-spacing: 1px;
+  line-height: 15px;
+  border-radius: 10px;
+  background: transparent;
+}
+.customcardheader {
+  letter-spacing: 1px;
+  line-height: 15px;
+  border-radius: 40px;
+  background-color: secondary;
+}
+.customcardbody {
+  background-color: rgba(250, 250, 250, 0.5);
+  border: 2px solid rgb(212, 212, 212);
+}
+.recvmsg {
+  background-color: rgb(2, 107, 226);
+  color: rgb(254, 254, 255);
+  border: 2px solid rgb(2, 107, 226);
+  border-radius: 20px;
+  padding: 4%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.sendmsg {
+  background-color: rgb(21, 226, 2);
+  color: rgb(254, 254, 255);
+  border: 2px solid rgb(28, 226, 2);
+  border-radius: 20px;
+  padding: 4%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
